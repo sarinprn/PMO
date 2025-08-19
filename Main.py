@@ -26,6 +26,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 import graphviz
 import plotly.express as px
+pip install scikit-learn
 
 # ----------------------
 # App Config & Theming
